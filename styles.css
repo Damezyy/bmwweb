@@ -159,7 +159,7 @@ text-decoration: none;
     padding: 5px;
   }
   body{
-    padding-top: 70px;
+    padding-top: 150px;
     padding: 10px;
 
   nav{
@@ -167,6 +167,7 @@ text-decoration: none;
   }
   #video{
     width: 100%;
+    margin: 20px;
   }
 
   h1 {
@@ -183,7 +184,10 @@ text-decoration: none;
     justify-content: center;
     padding-left: 0;
   }
+    #contact{
+      text-align: center;
 }
+
 
 
 
