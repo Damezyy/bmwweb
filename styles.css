@@ -152,7 +152,7 @@ text-decoration: none;
 }
 
 /* Phones */
-@media (max-width: 480px) {
+@media (max-width: 600px) {
   #header-img {
     width: 40px;
     height: 40px;
@@ -174,3 +174,4 @@ text-decoration: none;
     padding-left: 0;
   }
 }
+
